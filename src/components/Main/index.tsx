@@ -1,7 +1,8 @@
+import * as S from './styles'
 export default function Main() {
   return (
-    <div>
+    <S.Wrapper>
       <h1>Passou no Teste</h1>
-    </div>
+    </S.Wrapper>
   )
 }
